@@ -1,4 +1,4 @@
- #Hi, I'm DharaniDharan👋  
+Hi, I'm DharaniDharan👋  
 
 I am a **passionate Software Tester** with strong expertise in **manual and automation testing**. I specialize in delivering high-quality software solutions by leveraging **Java, Selenium, and other cutting-edge tools**.  
 
