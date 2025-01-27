@@ -34,4 +34,4 @@ I am a **passionate Software Tester** with strong expertise in **manual and auto
 - Staying up-to-date with the latest testing frameworks and methodologies.  
 
 ## 🌐 Connect with Me  
-- 🔗 GitHub: [DharaniDhran](https://github.com/Dharanidharan1809/Dharanidharan1809)
+- 🔗 GitHub: [DharaniDharan](https://github.com/Dharanidharan1809/Dharanidharan1809)
